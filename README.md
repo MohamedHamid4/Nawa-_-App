@@ -37,8 +37,6 @@
   <img src="assets/screenshots/08_lock.jpg" width="200" />
 </p>
 
-> 📸 More screenshots in the `screenshots/` folder.
-
 ---
 
 ## 🌍 English <a name="english"></a>
@@ -304,13 +302,6 @@ flutter build ios --release
 - [x] OCR for images
 - [x] Voice-to-text
 - [x] Real-time collaboration on shared notes
-- [ ] iOS App Store release
-- [ ] Web version
-- [ ] Desktop (macOS / Windows / Linux)
-- [ ] Apple Sign-In
-- [ ] In-app purchases (real billing)
-- [ ] Smart suggestions ("Continue this note...")
-- [ ] Public note sharing via link
 
 ### 🐛 Known Issues / Limitations
 
@@ -539,20 +530,13 @@ flutter build ios --release
 - [x] OCR للصور
 - [x] تحويل الصوت لنص
 - [x] التعاون الفوري على المذكرات المشتركة
-- [ ] النشر على App Store (iOS)
-- [ ] نسخة الويب
-- [ ] نسخة سطح المكتب (macOS / Windows / Linux)
-- [ ] تسجيل الدخول بـ Apple
-- [ ] الاشتراكات داخل التطبيق (دفع حقيقي)
-- [ ] اقتراحات ذكية ("أكمل هذي المذكرة...")
-- [ ] مشاركة مذكرات بشكل عام عبر رابط
 
 ---
 
 ## 👨‍💻 About the Developer / عن المطوّر
 
 <p align="center">
-  <img src="screenshots/developer.jpg" width="120" style="border-radius: 50%;" />
+  <img src="screenshots/logo.png" width="120" style="border-radius: 50%;" />
 </p>
 
 <h3 align="center">Mohamed Hamid · محمد حميد</h3>
@@ -560,7 +544,7 @@ flutter build ios --release
 
 <p align="center">
   Passionate Flutter developer from Palestine 🇵🇸<br>
-  مطوّر Flutter شغوف من فلسطين
+  مطوّر Flutter
 </p>
 
 ### 📬 Get in touch / تواصل معي
@@ -570,7 +554,7 @@ I'm available for freelance work, collaborations, or just a chat about code!
 
 - 📧 **Email**: [mohamedhamidofficial4@gmail.com](mailto:mohamedhamidofficial4@gmail.com)
 - 🌐 **Portfolio**: [mohamedhamid4.github.io/MohamedHamid.com](https://mohamedhamid4.github.io/MohamedHamid.com/)
-- 💼 **Available for hire**: Yes! / نعم!
+- 💼 **Available for hire**: Yes 
 
 ### 💚 Support
 
@@ -587,10 +571,6 @@ If you find Nawa useful, consider:
 
 ---
 
-<p align="center">
-  Made with 💚 in Palestine 🇵🇸<br>
-  صُنع بحب في فلسطين
-</p>
 
 <p align="center">
   <i>Nawa — A small seed grows into something great.</i><br>
