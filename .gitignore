@@ -1,0 +1,156 @@
+# ─── Dart / Flutter build outputs ──────────────────────────────
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+build/
+flutter_*.png
+linked_*.ds
+unlinked.ds
+unlinked_spec.ds
+.fvm/
+**/doc/api/
+app.*.symbols
+app.*.map.json
+migrate_working_dir/
+
+# ─── Generated files (codegen) ─────────────────────────────────
+*.g.dart
+*.freezed.dart
+*.config.dart
+*.gr.dart
+*.mocks.dart
+**/generated_plugin_registrant.dart
+**/GeneratedPluginRegistrant.java
+**/GeneratedPluginRegistrant.swift
+**/GeneratedPluginRegistrant.h
+**/GeneratedPluginRegistrant.m
+
+# ─── IDE / Editor ──────────────────────────────────────────────
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.history/
+.atom/
+.svn/
+.swiftpm/
+*.swp
+*.swo
+*~
+
+# ─── OS junk ───────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+desktop.ini
+$RECYCLE.BIN/
+
+# ─── Android ───────────────────────────────────────────────────
+android/.gradle/
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+android/key.properties
+android/app/release/
+android/app/build/
+android/app/debug/
+android/app/profile/
+android/app/google-services.json
+android/.cxx/
+*.jks
+*.keystore
+*.aab
+
+# ─── iOS ───────────────────────────────────────────────────────
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/.last_build_id
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/Flutter/flutter_assets/
+ios/Flutter/flutter_export_environment.sh
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+ios/Runner.xcworkspace/
+ios/*.xcworkspace
+ios/Runner/GoogleService-Info.plist
+ios/firebase_app_id_file.json
+ios/Flutter/ephemeral/
+
+# ─── macOS / Windows / Linux desktop ───────────────────────────
+macos/Pods/
+macos/Flutter/ephemeral/
+macos/Flutter/GeneratedPluginRegistrant.swift
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/
+
+# ─── Firebase ──────────────────────────────────────────────────
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
+firestore-debug.log
+ui-debug.log
+.firebaserc.local
+
+# ─── Secrets / env / API keys ──────────────────────────────────
+.env
+.env.*
+!.env.example
+*.env
+secrets.dart
+api_keys.dart
+lib/config/secrets.dart
+google-services.json
+GoogleService-Info.plist
+
+# ─── Logs and temp files ───────────────────────────────────────
+*.log
+*.tmp
+*.bak
+*.old
+*.cache
+crash_logs/
+
+# ─── Coverage / test artefacts ─────────────────────────────────
+coverage/
+test/coverage/
+test_driver/
+.nyc_output/
+*.lcov
+
+# ─── Native splash & launcher icon regenerated assets ──────────
+# Keep the source icon (assets/icons/app_icon.png) but ignore the
+# many generated platform-specific copies produced by
+# flutter_launcher_icons / flutter_native_splash on each run.
+android/app/src/main/res/mipmap-*/ic_launcher*.png
+android/app/src/main/res/drawable-*/launch_image.png
+android/app/src/main/res/drawable-*/background.png
+android/app/src/main/res/values*/styles.xml.bak
+ios/Runner/Assets.xcassets/LaunchImage.imageset/
+ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-*.png
+
+# ─── Misc ──────────────────────────────────────────────────────
+*.class
+*.pyc
+*.zip
+*.tar
+*.tar.gz
+*.7z
+.flutter_settings
+node_modules/
+.cursorignore

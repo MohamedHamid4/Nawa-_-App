@@ -1,0 +1,14 @@
+-keep class com.google.firebase.** { *; }
+-keep class com.google.mlkit.** { *; }
+-keep class com.google.android.gms.** { *; }
+-keep class io.flutter.plugins.** { *; }
+-keep class com.dexterous.flutterlocalnotifications.** { *; }
+-keep class com.google.android.play.core.** { *; }
+-keepattributes *Annotation*
+-keepattributes Signature
+-keepattributes InnerClasses
+-keepattributes EnclosingMethod
+-dontwarn com.google.firebase.**
+-dontwarn com.google.android.gms.**
+-dontwarn com.google.mlkit.**
+-keep class * extends com.google.protobuf.GeneratedMessageLite { *; }

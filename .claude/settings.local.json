@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter --version)",
+      "Bash(rm -f pubspec.lock)",
+      "Bash(flutter pub *)",
+      "Bash(flutter analyze *)",
+      "Bash(flutter clean *)",
+      "Bash(flutter build *)",
+      "Bash(dart run *)",
+      "PowerShell(flutter *)",
+      "PowerShell(dart run *)",
+      "Bash(xargs grep -l \"listTile\\\\|list_tile\\\\|NativeAd\")"
+    ]
+  }
+}
