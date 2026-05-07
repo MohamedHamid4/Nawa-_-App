@@ -535,10 +535,6 @@ flutter build ios --release
 
 ## 👨‍💻 About the Developer / عن المطوّر
 
-<p align="center">
-  <img src="screenshots/logo.png" width="120" style="border-radius: 50%;" />
-</p>
-
 <h3 align="center">Mohamed Hamid · محمد حميد</h3>
 <p align="center"><i>Software Engineer · مهندس برمجيات</i></p>
 
